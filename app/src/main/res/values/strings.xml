@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atividade 2 - 3 Telas</string>
+    <string name="tela_1">Abrir Tela 1</string>
+    <string name="tela_2">Abrir Tela 2</string>
+    <string name="tela_3">Abrir Tela 3</string>
+    <string name="title_activity_tela1">Tela 1</string>
+</resources>
